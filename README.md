@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|A|N|.|.|.|
+|B|A|N|A|A|N|
 |-|-|-|-|-|-|
 |1|2|3|4|5|6|
 
@@ -19,3 +19,4 @@
 1 Antwoord = Goed
 2 Antwoord = Goed
 3 Antwoord = Fout
+4 = Goed geraden! :)
