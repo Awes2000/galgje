@@ -7,7 +7,7 @@
 |1|2|3|4|5|
 
 ## Score
-![gallow](./images/2.png)
+![gallow](./images/3.png)
 
 ## Beurten
 1.A 
@@ -16,3 +16,4 @@
 
 1 Antwoord = Goed
 2 Antwoord = Fout
+3 Antwoord = FOUT!!!
