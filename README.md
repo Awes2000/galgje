@@ -10,7 +10,9 @@
 ![gallow](./images/3.png)
 
 ## Beurten
-1.A 
+1.A
+2.N
+3.O 
 
 
 1 Antwoord = Goed
