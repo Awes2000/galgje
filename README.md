@@ -12,7 +12,8 @@
 ## Beurten
 1.A
 2.N
-3.O 
+3.O
+4.BANAAN 
 
 
 1 Antwoord = Goed
